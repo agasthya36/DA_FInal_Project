@@ -1,2 +1,2 @@
-# DA_Final_Project
+# Employee Attrition
 This project can be directly executed with jupyter notebook.
